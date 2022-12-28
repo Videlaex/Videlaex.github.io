@@ -1,0 +1,28 @@
+.titulo{
+    font-family: cursive;
+    background: red;
+    border: 3px ridge yellow ;
+    padding: 1%;
+    padding-bottom: 0%;
+    padding-top: 0%;
+    font-size: 60px;
+}
+body{
+    background: black;
+    color: white;
+    text-align: center ;
+}
+.parrafo{
+    border: 3px ridge blue;
+    padding: 1px;
+    background: rgb(56, 56, 56);
+    margin: 50px 50px 50px 50px;
+    font-size: 25px;
+}
+#Myfoto{
+    float: left;
+}
+.firma{
+    text-align:unset ;
+    font-family: fantasy;
+}
